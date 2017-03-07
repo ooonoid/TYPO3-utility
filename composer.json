@@ -1,0 +1,31 @@
+{
+    "name": "ooonoid/typo3-utility",
+    "type": "typo3-cms-extension",
+    "description": "General TYPO3 extbase Utility Library",
+    "version": "0.0.1",
+    "homepage": "http://www.ooonoid.de",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "TYPO3",
+        "TYPO3 CMS",
+        "extension",
+        "TYPO3-utility"
+    ],
+    "authors": [
+        {
+            "name": "The Noidr",
+            "email": "ooo.noidr@gamil.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms": "^7.6 || ^8",
+        "php": ">= 7.0"
+    },
+    "suggest": {
+ 
+    }
+}
+
